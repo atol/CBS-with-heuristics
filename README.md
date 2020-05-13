@@ -6,6 +6,8 @@ each algorithm across different instances of MAPF problems.
 
 ## Introduction
 
+![Image of MAPF instance](assets/mapf.gif)
+
 Multi-Agent Path Finding (MAPF) is the problem of finding a set of collision-free paths for a
 given set of agents. A MAPF problem is defined by a graph `G = (V , E)` and a set of `k` agents.
 Each agent has a start position `s` and a goal position `g`. At each discrete timestep, 
